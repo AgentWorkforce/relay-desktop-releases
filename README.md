@@ -4,6 +4,16 @@ Let your agents work like a team on the relay.
 
 [Download Agent Relay](https://agentrelay.com/download) · [Release notes](https://github.com/AgentWorkforce/relay-desktop-releases/releases)
 
+## Release channels
+
+- [Stable releases](https://github.com/AgentWorkforce/relay-desktop-releases/releases?q=prerelease%3Afalse) are the default for downloads and app updates.
+- [Beta releases](https://github.com/AgentWorkforce/relay-desktop-releases/releases?q=prerelease%3Atrue) preview upcoming features and may be less reliable. Opt in with **Settings → Updates → Include beta releases** on macOS or Linux.
+
+Release titles identify **Stable** and **Beta**. Beta versions are numbered
+(`2026.10.2-beta.1`, `2026.10.2-beta.2`, …), followed by a final stable version
+(`2026.10.2`). Beta users also receive newer stable releases. Turning beta off
+keeps the installed version until a newer stable release is available.
+
 ## Downloads
 
 Requires macOS 13 or later.
