@@ -1,6 +1,6 @@
 # Agent Relay Desktop
 
-Let your agents work like a team on the relay. Agent Relay runs on macOS, Linux and Windows.
+Official downloads for Agent Relay Desktop. Choose the installer for your operating system; the application source and contributor instructions live separately.
 
 [Download Agent Relay](https://agentrelay.com/download) · [Release notes](https://github.com/AgentWorkforce/relay-desktop-releases/releases)
 
